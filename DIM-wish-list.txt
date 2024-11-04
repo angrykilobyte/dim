@@ -1,6 +1,7 @@
 // https://github.com/DestinyItemManager/DIM/wiki/Creating-Wish-Lists
 // -69420 is item wildcard
-// Liturgy with blinding, slideways, chill clip
 title:My Wish List
 description:My personal wish list of items that I'm looking for.
+//notes:My wish list
+// Liturgy with blinding, slideways, chill clip
 dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
