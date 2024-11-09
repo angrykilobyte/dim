@@ -2,6 +2,19 @@
 // -69420 is item wildcard
 title:My Wish List
 description:My personal wish list of items that I'm looking for.
-//notes:My wish list
+//notes:My Revenant wish list
 // Liturgy with blinding, slideways, chill clip
 dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579
+// Exuviae
+dimwishlist:item=2823644677&perks=3400784728,124408337
+dimwishlist:item=2823644677&perks=1955165503,124408337
+dimwishlist:item=2823644677&perks=1195158366,124408337
+// Live Fire
+dimwishlist:item=3612142623&perks=3425386926
+dimwishlist:item=3612142623&perks=3700496672
+dimwishlist:item=3612142623&perks=124408337
+dimwishlist:item=3612142623&perks=1820235745
+dimwishlist:item=3612142623&perks=1955165503
+// Vantage Point
+// Arcane Embrace
+// Bitter/Sweet
