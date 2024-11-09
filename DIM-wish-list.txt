@@ -16,5 +16,8 @@ dimwishlist:item=3612142623&perks=124408337
 dimwishlist:item=3612142623&perks=1820235745
 dimwishlist:item=3612142623&perks=1955165503
 // Vantage Point
+//    already have what I want
 // Arcane Embrace
+dimwishlist:item=3649985571&perks=3230963543,25606670,2173046394
 // Bitter/Sweet
+//    already have what I want
