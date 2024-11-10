@@ -21,3 +21,6 @@ dimwishlist:item=3612142623&perks=1955165503
 dimwishlist:item=3649985571&perks=3230963543,25606670,2173046394
 // Bitter/Sweet
 //    already have what I want
+// Braytech Werewolf
+dimwishlist:item=3558681245&perks=3418782618,3891536761
+dimwishlist:item=3558681245&perks=1820235745,3891536761
